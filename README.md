@@ -43,3 +43,11 @@ This Power BI dashboard analyzes eCommerce sales data to track revenue, profit, 
 Power BI Desktop
 DAX (for calculated columns & measures)
 Data Modeling & Visualization
+
+## 📷 Dashboard Preview
+
+
+## 🚀 How to Use  
+1. Download the .pbix file.  
+2. Open in *Power BI Desktop*.  
+3. Interact with slicers and charts to analyze trends.
