@@ -45,6 +45,7 @@ DAX (for calculated columns & measures)
 Data Modeling & Visualization
 
 ## 📷 Dashboard Preview
+https://github.com/Pooja22-tech/Ecommerce_Sales_dashboard/blob/main/Ecommerce%20Sales%20dashboard.png
 
 
 ## 🚀 How to Use  
