@@ -47,8 +47,7 @@ Data Modeling & Visualization
 ## 📷 Dashboard Preview
 
 
-![E-Commerce Sales Dashboard]
-(https://github.com/Pooja22-tech/Ecommerce_Sales_dashboard/blob/main/Ecommerce%20Sales%20dashboard.png)
+![E-Commerce Sales Dashboard](https://github.com/Pooja22-tech/Ecommerce_Sales_dashboard/blob/main/Ecommerce%20Sales%20dashboard.png)
 
 
 
